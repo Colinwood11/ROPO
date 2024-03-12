@@ -43,7 +43,9 @@ Jun 28, 2021 - July 14, 2021 开发并且上线基本项目原型使用
 
 July 14, 2021 - Aug 28, 2022 (其余功能记不住了)
 
-# 开发人员
+# 开发
+
+https://duepiccioni.com/
 
 主开发 : https://github.com/Accout-Personal
 
